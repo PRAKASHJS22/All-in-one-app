@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833547542842",
+    "project_id": "turing-runner-261405",
+    "storage_bucket": "turing-runner-261405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833547542842:android:429fbd914cd5b31565b003",
+        "android_client_info": {
+          "package_name": "com.alberta_assignmnet_functional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833547542842-8a3qpbdornj9so4c8ce4kjj0etm1khsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9zaWPMZDfjYmK1fSnrjEm0qL0lzGousU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833547542842-8a3qpbdornj9so4c8ce4kjj0etm1khsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

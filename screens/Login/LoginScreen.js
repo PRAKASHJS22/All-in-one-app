@@ -11,7 +11,7 @@ function LoginScreen() {
 
     useEffect(() => {  
         setIsVisible(false);
-    },[]);  
+    },[])
 
     const handleSubmit = () => {
   
@@ -20,10 +20,13 @@ function LoginScreen() {
         else 
             Alert.alert("Wrong Credentials")
     }
+    let Item_Screen = (  
+        <Items/>
+      );
     return (
             <>
                 {
-                (isVisible === true) ? <Items/> :
+                (isVisible === true) ? Item_Screen :
                     (
                         <View style={styles.container}>
                             <Text style={styles.logo}>Alberta App</Text>

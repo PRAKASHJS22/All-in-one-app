@@ -10,8 +10,15 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-firebase/app": "^8.2.0",
     "react": "17.0.1",
     "react-native": "0.64.2",
+    "react-native-camera": "^3.44.3",
+    "react-native-fingerprint-scanner": "^6.0.0",
+    "react-native-permissions": "^3.0.5",
+    "react-native-push-notification": "^7.4.0",
+    "react-native-qrcode-scanner": "^1.5.4",
+    "react-native-responsive-screen": "^1.4.2",
     "react-native-shadow-cards": "^1.0.2"
   },
   "devDependencies": {

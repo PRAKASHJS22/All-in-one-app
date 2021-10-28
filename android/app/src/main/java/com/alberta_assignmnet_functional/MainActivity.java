@@ -1,5 +1,6 @@
 package com.alberta_assignmnet_functional;
 
+import com.hieuvp.fingerprint.ReactNativeFingerprintScannerPackage;
 import com.facebook.react.ReactActivity;
 
 public class MainActivity extends ReactActivity {
